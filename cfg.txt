@@ -1,0 +1,5 @@
+# 坐标系左下角原点，X右，Y上
+labelxpos = 330
+labelypos = 100
+headxpos = 100
+headypos = 350
