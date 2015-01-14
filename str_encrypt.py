@@ -17,7 +17,7 @@ def my_decrypt(srcs):
     return urllib.unquote(url_s)
 
 if __name__ == "__main__":
-    s = u'»Œ—«∑…'
+    s = u'05053125'
     res = my_encrypt(s)
     print('after encrypt : %s' % res)
 
