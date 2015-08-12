@@ -1,0 +1,10 @@
+from turtle import Turtle
+t = Turtle()
+t.hideturtle()
+def drawCircles():
+  for i in range(36):
+    for j in range(360):
+      t.forward(2)
+      t.right(1)
+    t.right(10)
+drawCircles()
