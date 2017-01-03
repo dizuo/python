@@ -1,4 +1,5 @@
 #np++
+#peteryfren 2017-1-2
 
 def sh_to_us(val):
 	print ( ('\u' + hex(val)[2:]).decode('unicode-escape') )
